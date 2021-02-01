@@ -30,7 +30,6 @@ $(document).ready(function () {
 				'DEVELOPPEUR ANGULAR',
 				'DEVELOPPEUR REACT JS',
 				'UX DESIGNER',
-				'Developer Angular and React js'
 			] ,
 			counter = 0;                
 			setInterval(function() {
